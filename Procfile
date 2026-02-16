@@ -1,0 +1,1 @@
+worker: python natali_bot.py

@@ -1,0 +1,10 @@
+config.py
+*.session
+*.session-journal
+__pycache__/
+*.pyc
+.env
+venv/
+.DS_Store
+conversations.json
+natali_bot.log
